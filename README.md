@@ -18,7 +18,7 @@ Este projeto recria o clássico jogo Pac-Man, onde o jogador controla um persona
 ## 🚀 Como Executar
 ### 1. Clone o repositório
 ```sh
-git clone https://github.com/seu-usuario/pacman-python.git
+git clone https://github.com/felipe-michael1/Pac_Man.git
 cd pacman-python
 ```
 
