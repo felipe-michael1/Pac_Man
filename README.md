@@ -34,9 +34,7 @@ python main.py
 ```
 
 ## 📸 Capturas de Tela
-![Gameplay](https://imgur.com/dDPQxbl)
-
-![Gameplay](https://imgur.com/Jd9AG58)
+https://imgur.com/a/Mx8TWFh
 
 ## 📜 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
