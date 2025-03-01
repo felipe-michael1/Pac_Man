@@ -42,5 +42,5 @@ python main.py
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Criado com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Criado com ❤️ por [Felipe Michael da Fonseca](https://github.com/felipe-michael1).
 
