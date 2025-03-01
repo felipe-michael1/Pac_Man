@@ -1,7 +1,5 @@
 # Pac-Man em Python
 
-![Pac-Man](https://upload.wikimedia.org/wikipedia/commons/8/8a/Pac-Man.png)
-
 Um jogo simples do Pac-Man desenvolvido em Python, utilizando a biblioteca `pygame`.
 
 ## 🎮 Sobre o Jogo
